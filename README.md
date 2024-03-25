@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manas127-c" alt="manas127-c" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js,Express.js,Mongodb**
+- 🌱 I’m currently learning **Advance Java, Spring,Springboot,Devops**
 
 - 👨‍💻 All of my projects are available at [https://manas-web-dev.netlify.app/](https://manas-web-dev.netlify.app/)
 
