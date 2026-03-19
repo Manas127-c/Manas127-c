@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Manas Tripathy<br><br> 🌱 I’m currently learning Spring Boot, AWS<br><br>👨‍💻 All of my projects are available at https://manas-web-dev.netlify.app/<br><br>💬 Ask me about core java, java8, spring, spring-boot, react, javascript, tailwinds,html,css<br><br>📫 How to reach me manastripathy127@gmail.com
+Hi, I'm Manas Tripathy<br><br> 🌱 I’m currently workign at Rumango Software and Consultant PVT LTD.<br><br>👨‍💻 All of my projects are available at https://manas-web-dev.netlify.app/<br><br>💬 Ask me about core java, java8, spring, spring-boot, react, javascript, tailwinds,html,css<br><br>📫 How to reach me manastripathy127@gmail.com
 
 
 ## 🌐 Socials:
